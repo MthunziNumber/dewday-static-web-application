@@ -1,0 +1,3 @@
+EMAIL_API_URL=https://your-email-provider.example/v1/messages
+EMAIL_API_TOKEN=replace-with-a-server-side-token
+EMAIL_FROM=verified-sender@your-domain.example
